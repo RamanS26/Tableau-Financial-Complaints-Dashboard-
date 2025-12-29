@@ -15,4 +15,4 @@ Built an interactive Tableau dashboard to analyze over 75,000 customer complaint
 - How many customers dispute the company's resolution?
 - Which states have the highest complaint volumes?
 
-- Dashboard <a href = "https://github.com/RamanS26/Tableau-Financial-Complaints-Dashboard-/blob/main/Tableau.png">View Dashboard</a>
+- <a href = "https://github.com/RamanS26/Tableau-Financial-Complaints-Dashboard-/blob/main/Tableau.png">View Dashboard</a>
